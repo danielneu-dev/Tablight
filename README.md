@@ -1,5 +1,4 @@
-# SWT 2 Projekt
-
+# Softwaretechnik 2 Projekt - Teamarbeit mit <a href="https://github.com/JHikyu">Justin</a> & Juan
 ## Projektdefinition
 
 ### Einleitung (fiktives Szenario)
